@@ -8,3 +8,7 @@ React flexbox에 대한 이해.
 Loading.js 추가 import방식과 컴포넌트 사용은 기존 리액트와 
 비슷한 방식 expo-location api를 import후 사용.
 alert 사용 및 expo location 의 사용 및 loading.js 코드 추가
+
+## `2020/05/19`
+
+axios를 이용해 openweatherapi에서 정보를 가져와 온도를 가져오는데 성공
